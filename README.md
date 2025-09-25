@@ -65,5 +65,5 @@ Bu proje, kariyer yolumda Derin Öğrenme ve Yapay Zeka alanlarına odaklanma is
 
 Çalışmama ait tüm Kaggle linkleri aşağıdadır:
 
-https://www.kaggle.com/code/belmatas/fake-and-real-ai-generated-art-images-dataset/edit
+https://www.kaggle.com/code/belmatas/fake-and-real-ai-generated-art-images-dataset
 
